@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Lucas!
 
 I'm a graduate student in **Data Science & Artificial Intelligence** at **PUC Campinas**, passionate about leveraging technology to solve real-world problems.
 
