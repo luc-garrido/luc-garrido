@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  # Executa a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Permite executar manualmente pela aba Actions
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        # Usa a Action do projeto SNK
+        uses: Platane/snk@v3
+        with:
+          # O ID do seu usuário do GitHub
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Lista de saídas que a Action deve gerar
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
