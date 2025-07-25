@@ -32,3 +32,5 @@ I'm a graduate student in **Data Science & Artificial Intelligence** at **PUC Ca
 ---
 
 > “Quanta verdade você aguenta?” — Nietzsche
+
+<img src="https://raw.githubusercontent.com/<luc-garrido>/<SEU-USUARIO>/main/profile-3d-contrib/profile-green-animate.svg" alt="Contribuições 3D">
