@@ -1,6 +1,8 @@
-# 👋 Hi there, I'm Lucas!
+# 👋 Hey there
 
-I'm a graduate student in **Data Science & Artificial Intelligence** at **PUC Campinas**, passionate about leveraging technology to solve real-world problems.
+I'm Lucas, a AI engineer and graduate student in **Data Science & Artificial Intelligence** based in brazil.
+
+passionate about leveraging technology to solve real-world problems.
 
 ## 🚀 About Me
 
@@ -32,5 +34,3 @@ I'm a graduate student in **Data Science & Artificial Intelligence** at **PUC Ca
 ---
 
 > “Quanta verdade você aguenta?” — Nietzsche
-
-![Snake animation](https://raw.githubusercontent.com/luc-garrido/luc-garrido/output/github-contribution-grid-snake-dark.svg )
