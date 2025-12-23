@@ -10,12 +10,12 @@ I currently work as an **AI Engineering Intern**, where I focus on improving **c
 
 My main tech stack is Python, with a strong focus on data processing, automation, and applied AI. I’m particularly good at **improving retrieval, ranking, and optimization strategies for chatbots**.
 
-I’ve got a few pinned projects, but one of my favorites is a tool that analyzes the text of PDF and DOCX files to detect duplicates and interactively ask whether to delete them.
+I’ve got a few pinned projects, but one of my favorites is a tool that analyzes the text of PDF and DOCX files to [detect duplicates](https://www.linkedin.com/in/lucgarrido/) and interactively ask whether to delete them.
 
 I learn best by building, testing, and iterating on real systems.
 
 Fun Facts:
-I enjoy games and tech-related content  
-I like understanding how things work under the hood  
-I prefer practical projects over theory  
-I’m always looking for ways to optimize systems  
+- I enjoy games and tech-related content  
+- I like understanding how things work under the hood  
+- I prefer practical projects over theory  
+- I’m always looking for ways to optimize systems  
