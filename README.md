@@ -1,4 +1,4 @@
-# Hey there! 👋
+## Hey there! <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/826f471b-5522-4fd4-b909-204a490ed721" />
 
 I’m Lucas, a Data Science and AI student based in Brazil.
 
