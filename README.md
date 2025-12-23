@@ -1,6 +1,6 @@
 ## Hey there! 🐦‍🔥
 
-I’m Lucas, a Data Science and AI student based in Brazil.
+I’m [Lucas](https://www.linkedin.com/in/lucgarrido/), a Data Science and AI student based in Brazil.
 
 I build things to solve real problems.
 
