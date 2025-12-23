@@ -1,36 +1,21 @@
-# 👋 Hey there
+# Hey there! 👋
 
-I'm Lucas, a AI engineer and graduate student in **Data Science & Artificial Intelligence** based in brazil.
+I’m Lucas, a Data Science and AI student based in Brazil.
 
-passionate about leveraging technology to solve real-world problems.
+I build things to solve real problems.
 
-## 🚀 About Me
+If something feels repetitive or inefficient, chances are I’ll try to automate it or improve it.
 
-- 🎓 Currently studying: Data Science & AI  
-- 🤖 Interests: Machine Learning, Artificial Intelligence, Data Engineering  
-- 📈 Building: Predictive models, analytics dashboards, and AI-powered applications  
-- 🏎️ Passionate about motorsport — former kart racer & Formula 1 enthusiast  
-- 🇧🇷 Based in Brazil, planning to expand my career globally  
+I currently work as an **AI Engineering Intern**, where I focus on improving **chatbot performance**, especially search quality, response relevance, and overall evaluation scores.
 
-## 🌱 I'm Learning
+My main tech stack is Python, with a strong focus on data processing, automation, and applied AI. I’m particularly good at **improving retrieval, ranking, and optimization strategies for chatbots**.
 
-- Advanced Machine Learning techniques  
-- Deep Learning frameworks (PyTorch, TensorFlow)  
-- Cloud computing with AWS & Azure  
-- Data engineering tools like Airflow and Spark  
+I’ve got a few pinned projects, but one of my favorites is a tool that analyzes the text of PDF and DOCX files to detect duplicates and interactively ask whether to delete them.
 
-## 📌 Goals
+I learn best by building, testing, and iterating on real systems.
 
-- Become an AI entrepreneur  
-- Create impactful AI products  
-- Move abroad to broaden my horizons and opportunities  
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucgarrido/)  
-- 📷 [Instagram](https://www.instagram.com/_lucgarrido/)  
-- 💻 Portfolio: _coming soon_
-
----
-
-> “Quanta verdade você aguenta?” — Nietzsche
+Fun Facts:
+I enjoy games and tech-related content  
+I like understanding how things work under the hood  
+I prefer practical projects over theory  
+I’m always looking for ways to optimize systems  
