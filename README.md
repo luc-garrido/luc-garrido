@@ -19,5 +19,3 @@ Fun Facts:
 - I like understanding how things work under the hood  
 - I prefer practical projects over theory  
 - I’m always looking for ways to optimize systems  
-
-;s
